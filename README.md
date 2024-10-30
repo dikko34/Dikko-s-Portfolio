@@ -1,4 +1,3 @@
-# Dikko's-Portfolio
 
 # [Project 1: Coffe_Orders_SQL_Data_Exploration](https://github.com/dikko34/Coffe-Orders-SQL-project.git)
 
